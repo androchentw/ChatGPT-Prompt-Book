@@ -1,6 +1,6 @@
 # ChatGPT-Prompt-Book
 
-<img alt="Book!" style="width:30%;" src="https://github.com/androchentw/ChatGPT-Prompt-Book/blob/main/res/book.jpeg?raw=true">
+<img alt="Book!" height="250" width="auto" src="https://github.com/androchentw/ChatGPT-Prompt-Book/blob/main/res/book.jpeg?raw=true">
 
 初衷是彙整平常使用到的 prompt。
 
