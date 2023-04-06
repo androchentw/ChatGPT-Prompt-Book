@@ -48,9 +48,24 @@
 | 📝 | Summarize | article | `Summarize in bullet point in #zhTW and #enUS: ` | 
 | 🇹🇼 | Translate | article | `Translate in bullet point to #zhTW, preserve original quote: ` | 
 | ✍️ | Rephrase | article | `Refine and condense in #zhTW: ` | 
+| ✍️ | Grammar | article | `Check grammar: ` | 
+
 
 ### Social Media Post Generation
 
 | Icon | Title | Input | Prompt | 
 | :--: | :---: | :---: | ------ | 
 | 🎉 | Propose content | title, article | `Propose 3 engaging social media post within 500 words in #zhTW: ` | 
+
+
+## Others
+
+```prompt
+#act-as-senior-expert 
+```
+
+### Job
+
+| Icon | Title | Input | Prompt | 
+| :--: | :---: | :---: | ------ | 
+| 💼 | Job description | role | `Compose a profession job description: ` | 
