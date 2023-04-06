@@ -1,5 +1,7 @@
 # ChatGPT-Prompt-Book
 
+<img alt="Book!" style="width:30%;" src="https://github.com/androchentw/ChatGPT-Prompt-Book/blob/main/res/book.jpeg?raw=true">
+
 初衷是彙整平常使用到的 prompt。
 
 如同 《Hunter x Hunter 獵人》貪婪之島的 "Book"，以後會是人手一本咒語書的時代了。讓我們一起蒐集實用的 prompt，見賢思齊！
