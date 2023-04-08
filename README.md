@@ -45,11 +45,11 @@
 
 | Icon | Title | Input | Prompt | 
 | :--: | :---: | :---: | ------ | 
-| 📝 | Summarize | article | `Summarize in bullet point in #zhTW and #enUS: ` | 
 | 🇹🇼 | Translate | article | `Translate in bullet point to #zhTW, preserve original quote: ` | 
-| ✍️ | Rephrase | article | `Refine and condense in #zhTW: ` | 
+| 📝 | Summarize | article | `Summarize in bullet point in #zhTW and #enUS: ` | 
+| 📝 | Rephrase | article | `Refine and condense in #zhTW: ` | 
+| ✍️ | Propose | article | `Propose concise heading in bullet point in #zhTW: ` | 
 | ✍️ | Grammar | article | `Check grammar: ` | 
-
 
 ### Social Media Post Generation
 
