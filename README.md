@@ -55,6 +55,7 @@
 
 | Icon | Title | Input | Prompt | 
 | :--: | :---: | :---: | ------ | 
+| 🎉 | Suggest SEO practices | title, article | `Suggest SEO practices: ` | 
 | 🎉 | Propose content | title, article | `Propose 3 engaging social media post within 500 words in #zhTW: ` | 
 
 
