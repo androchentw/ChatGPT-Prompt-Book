@@ -10,7 +10,7 @@
 
 理解原理就像抓住粽子頭，可以幫助我們拓展更多應用，也可以用來檢視我們都用在哪些例子上。
 
-### 學習機制
+### 1. 學習機制
 
 ChatGPT 的學習訓練機制是 RLHF (Reinforcement Learning from Human Feedback, 基於人類回饋的強化學習) , 特別擅長文字接龍 (預測下一個字)。而 NLP (Natural Language Processing, 自然語言處理) 基本上可以歸類在做這 5 件事情/任務:
 
@@ -22,17 +22,17 @@ ChatGPT 的學習訓練機制是 RLHF (Reinforcement Learning from Human Feedbac
 
 所以我們就可以從這些基礎，再衍生各種應用。
 
-### 建議使用英文
+### 2. 建議使用英文
 
 基於現在使用英文會比中文有品質&有效率 (主要是因為原始訓練語料量的差別)，建議大家學習精簡的 “英文動詞與形容詞" 作為 prompt 基礎。也有助於我們邏輯思考
 
 需要時再轉中文也可以。英文部分可以參考 [GrammarlyGo](https://www.grammarly.com/grammarlygo)
 
-## 角色扮演 營造情境
+### 3. 角色扮演 營造情境
 
 目前我認為最有效果的就是要提供給 ChatGPT 一個情境/Scenario/Context/上下文。這能使他更精準地扮演你要的角色，跟你互動。
 
-### 多不如精
+### 4. 多不如精
 
 現在有很多非常長的 prompt。而且我自己測試覺得精簡的描述就已經很足夠了。比起在大量 prompt 海中找不到，能簡單取才是關鍵。雖然 Prompt Engineering 本身有其意義存在，但其實 GPT4 比起 GPT3.5 更精準，也許現在調整得太多，最後還是回到「問答本質」
 
