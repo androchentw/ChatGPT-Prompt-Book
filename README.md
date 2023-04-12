@@ -74,7 +74,7 @@ ChatGPT 的學習訓練機制是 RLHF (Reinforcement Learning from Human Feedbac
 #act-as-senior-expert 
 ```
 
-### Read
+### Reading
 
 | Icon | Title | Input | Prompt | 
 | :--: | :---: | :---: | ------ | 
@@ -84,6 +84,11 @@ ChatGPT 的學習訓練機制是 RLHF (Reinforcement Learning from Human Feedbac
 | 📝 | Rephrase 改寫 | article | `Rephrase fluently while keep the original style in #zhTW: ` | 
 | ✍️ | Propose | article | `Propose concise heading in bullet point in #zhTW: ` | 
 | ✍️ | Grammar | article | `Check grammar: ` | 
+
+### Presentation
+
+| 💼 | Resume | role, achievement | `Create a professional resume in #zhTW: ` | 
+| 💬 | Speech | article | `Compose a compelling speech in #zhTW: ` | 
 
 ### Social Media Post Generation
 
