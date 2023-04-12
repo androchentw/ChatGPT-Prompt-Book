@@ -76,8 +76,9 @@ ChatGPT 的學習訓練機制是 RLHF (Reinforcement Learning from Human Feedbac
 | Icon | Title | Input | Prompt | 
 | :--: | :---: | :---: | ------ | 
 | 🇹🇼 | Translate | article | `Translate in bullet point to #zhTW, preserve original quote: ` | 
-| 📝 | Summarize | article | `Summarize in bullet point in #zhTW and #enUS: ` | 
-| 📝 | Rephrase | article | `Refine and condense in #zhTW: ` | 
+| 📝 | Summarize 摘要 | article | `Summarize in bullet point in #zhTW and #enUS: ` | 
+| 📝 | Condense 精簡 | article | `Refine and condense in #zhTW: ` | 
+| 📝 | Rephrase 改寫 | article | `Rephrase fluently while keep the original style in #zhTW: ` | 
 | ✍️ | Propose | article | `Propose concise heading in bullet point in #zhTW: ` | 
 | ✍️ | Grammar | article | `Check grammar: ` | 
 
