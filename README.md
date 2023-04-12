@@ -26,7 +26,10 @@ ChatGPT 的學習訓練機制是 RLHF (Reinforcement Learning from Human Feedbac
 
 基於現在使用英文會比中文有品質&有效率 (主要是因為原始訓練語料量的差別)，建議大家學習精簡的 “英文動詞與形容詞" 作為 prompt 基礎。也有助於我們邏輯思考
 
-需要時再轉中文也可以。英文部分可以參考 [GrammarlyGo](https://www.grammarly.com/grammarlygo)
+需要時再轉中文也可以。英文部分可以參考 
+
+1. [GrammarlyGo](https://www.grammarly.com/grammarlygo)
+2. [rephrase.info](https://www.rephrase.info/)
 
 ### 3. 角色扮演 營造情境
 
