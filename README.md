@@ -41,6 +41,11 @@ ChatGPT 的學習訓練機制是 RLHF (Reinforcement Learning from Human Feedbac
 
 ## Developer Utils 開發相關
 
+```prompt
+in #zhTW
+in #enUS
+ ```
+
 ### Dev, Code, Test, Security Fix
 
 ```prompt
@@ -80,22 +85,23 @@ ChatGPT 的學習訓練機制是 RLHF (Reinforcement Learning from Human Feedbac
 | :--: | :---: | :---: | ------ | 
 | 🇹🇼 | Translate | article | `Translate in bullet point to #zhTW, preserve original quote: ` | 
 | 📝 | Summarize 摘要 | article | `Summarize in bullet point in #zhTW and #enUS: ` | 
-| 📝 | Condense 精簡 | article | `Refine and condense in #zhTW: ` | 
-| 📝 | Rephrase 改寫 | article | `Rephrase fluently while keep the original style in #zhTW: ` | 
-| ✍️ | Propose | article | `Propose concise heading in bullet point in #zhTW: ` | 
+| 📝 | Condense 精簡 | article | `Refine and condense: ` | 
+| 📝 | Rephrase 改寫 | article | `Rephrase fluently while keep the original style: ` | 
+| 📝 | Elaborate 闡述 | article | `ellaborate with examples: ` | 
+| ✍️ | Propose | article | `Propose concise heading in bullet point: ` | 
 | ✍️ | Grammar | article | `Check grammar: ` | 
 
 ### Presentation
 
-| 💼 | Resume | role, achievement | `Create a professional resume in #zhTW: ` | 
-| 💬 | Speech | article | `Compose a compelling speech in #zhTW: ` | 
+| 💼 | Resume | role, achievement | `Create a professional resume: ` | 
+| 💬 | Speech | article | `Compose a compelling speech: ` | 
 
 ### Social Media Post Generation
 
 | Icon | Title | Input | Prompt | 
 | :--: | :---: | :---: | ------ | 
 | 🎉 | Suggest SEO practices | title, article | `Suggest SEO practices: ` | 
-| 🎉 | Propose content | title, article | `Propose 3 engaging social media post within 500 words in #zhTW: ` | 
+| 🎉 | Propose content | title, article | `Propose 3 engaging social media post within 500 words: ` | 
 
 
 ## Others
