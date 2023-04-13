@@ -95,7 +95,6 @@ in #enUS
 
 | Icon | Title | Input | Prompt | 
 | :--: | :---: | :---: | ------ | 
-| 💼 | Resume | role, achievement | `Create a professional resume: ` | 
 | 💬 | Speech | article | `Compose a compelling speech: ` | 
 
 ### Social Media Post Generation
@@ -116,6 +115,7 @@ in #enUS
 
 | Icon | Title | Input | Prompt | 
 | :--: | :---: | :---: | ------ | 
+| 💼 | Resume | role, achievement | `Create a professional resume: ` | 
 | 💼 | Job description | role | `Compose a profession job description: ` | 
 
 ## AIGC Copilot App/Plugin
