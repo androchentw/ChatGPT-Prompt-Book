@@ -131,6 +131,7 @@ in #enUS
 | [ChatGPT Writer]  | Chrome Plugin | Email | 整合 gmail |
 | [Sharly.AI](https://www.sharly.ai) | Web | Doc Summarize | 整份文件 |
 | [FlowGPT](https://flowgpt.com) | Web | Prompt 社群 | 多種情境範本參考 |
+| [Auto-GPT], [AgentGPT], [BabyAGI] | GitHub Repo | 自動任務串接 | 用來產生 Story 的 subtask |
 
 <!-- Link -->
 [Glarity]: https://chrome.google.com/webstore/detail/glarity-summary-for-googl/cmnlolelipjlhfkhpohphpedmkfbobjc
@@ -139,3 +140,6 @@ in #enUS
 [ChatGPT Sidebar]: https://chrome.google.com/webstore/detail/chatgpt-sidebar-support-g/difoiogjjojoaoomphldepapgpbgkhkb
 [Merlin]: https://chrome.google.com/webstore/detail/merlin-chatgpt-assistant/camppjleccjaphfdbohjdohecfnoikec
 [ChatGPT Writer]: https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp
+[Auto-GPT]: https://github.com/Torantulino/Auto-GPT
+[AgentGPT]: https://agentgpt.reworkd.ai/
+[BabyAGI]: https://github.com/yoheinakajima/babyagi
