@@ -134,7 +134,7 @@ in #enUS
 | [Sharly.AI](https://www.sharly.ai) | Web | Doc Summarize | 整份文件 |
 | [FlowGPT](https://flowgpt.com) | Web | Prompt 社群 | 多種情境範本參考 |
 | [Auto-GPT], [AgentGPT], [BabyAGI] | GitHub Repo | 自動任務串接 | 用來產生 Story 的 subtask |
-| [stable-diffusion-webui-colab] | GitHub Repo | Stable Diffusion Google Colab | 免費產圖 |
+| [stable-diffusion-webui-colab] | GitHub Repo | Stable Diffusion Google Colab | 免費產圖. cetus, pastel, rpg, lyriel, anime-lineart |
 | [Moonshot](https://www.kocpc.com.tw/archives/483998) | LINE Chatbot | 寫實/概念/漫畫 | 免費產圖 |
  
 
