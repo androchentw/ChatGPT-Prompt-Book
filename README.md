@@ -93,6 +93,8 @@ in #enUS
 
 ### Presentation
 
+| Icon | Title | Input | Prompt | 
+| :--: | :---: | :---: | ------ | 
 | 💼 | Resume | role, achievement | `Create a professional resume: ` | 
 | 💬 | Speech | article | `Compose a compelling speech: ` | 
 
