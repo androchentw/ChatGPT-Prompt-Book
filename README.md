@@ -125,7 +125,7 @@ in #enUS
 | Name | Category | Function | Feature | 
 | :--: | :------: | -------- | :-----: | 
 | [ChatGPT](https://chat.openai.com) | Web | ChatGPT | 完整對話記錄 |
-| [UseChatGPT.AI] > [ChatGPT Sidebar] | Chrome Plugin | 網頁中的 ChatGPT | 選取運用; Prompt template  |
+| [UseChatGPT.AI], [ChatGPT Sidebar] | Chrome Plugin | 網頁中的 ChatGPT | 選取運用; Prompt template  |
 | [Glarity] | Chrome Plugin | 網頁及 YouTube 摘要 (ChatGPT) | 一鍵方便 |
 | [Trancy]  | Chrome Plugin | 語言學習助手 YouTube 雙語字幕 | 生成字幕, 整合度高 |
 | [Sharly.AI](https://www.sharly.ai) | Web | Doc Summarize | 整份文件 |
