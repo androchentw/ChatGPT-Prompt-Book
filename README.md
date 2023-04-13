@@ -146,4 +146,4 @@ in #enUS
 [Auto-GPT]: https://github.com/Torantulino/Auto-GPT
 [AgentGPT]: https://agentgpt.reworkd.ai/
 [BabyAGI]: https://github.com/yoheinakajima/babyagi
-: https://github.com/androchentw/stable-diffusion-webui-colab
+[stable-diffusion-webui-colab]: https://github.com/androchentw/stable-diffusion-webui-colab
