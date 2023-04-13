@@ -125,9 +125,10 @@ in #enUS
 | Name | Category | Function | Feature | 
 | :--: | :------: | -------- | :-----: | 
 | [ChatGPT](https://chat.openai.com) | Web | ChatGPT | 完整對話記錄 |
-| [UseChatGPT.AI], [ChatGPT Sidebar] | Chrome Plugin | 網頁中的 ChatGPT | 選取運用; Prompt template  |
+| [UseChatGPT.AI], [ChatGPT Sidebar], [Merlin] | Chrome Plugin | 網頁中的 ChatGPT | 選取運用; Prompt template  |
 | [Glarity] | Chrome Plugin | 網頁及 YouTube 摘要 (ChatGPT) | 一鍵方便 |
 | [Trancy]  | Chrome Plugin | 語言學習助手 YouTube 雙語字幕 | 生成字幕, 整合度高 |
+| [ChatGPT Writer]  | Chrome Plugin | Email | 整合 gmail |
 | [Sharly.AI](https://www.sharly.ai) | Web | Doc Summarize | 整份文件 |
 | [FlowGPT](https://flowgpt.com) | Web | Prompt 社群 | 多種情境範本參考 |
 
@@ -136,3 +137,5 @@ in #enUS
 [Trancy]: https://chrome.google.com/webstore/detail/language-learning-with-vi/mjdbhokoopacimoekfgkcoogikbfgngb
 [UseChatGPT.AI]: https://chrome.google.com/webstore/detail/usechatgptai-chatgpt-copi/mhnlakgilnojmhinhkckjpncpbhabphi
 [ChatGPT Sidebar]: https://chrome.google.com/webstore/detail/chatgpt-sidebar-support-g/difoiogjjojoaoomphldepapgpbgkhkb
+[Merlin]: https://chrome.google.com/webstore/detail/merlin-chatgpt-assistant/camppjleccjaphfdbohjdohecfnoikec
+[ChatGPT Writer]: https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp
