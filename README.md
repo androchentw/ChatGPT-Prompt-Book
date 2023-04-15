@@ -39,14 +39,14 @@ ChatGPT 的學習訓練機制是 RLHF (Reinforcement Learning from Human Feedbac
 
 現在有很多非常長的 prompt。而且我自己測試覺得精簡的描述就已經很足夠了。比起在大量 prompt 海中找不到，能簡單取才是關鍵。雖然 Prompt Engineering 本身有其意義存在，但其實 GPT4 比起 GPT3.5 更精準，也許現在調整得太多，最後還是回到「問答本質」
 
-## Developer Utils 開發相關
+## 👨‍💻 Developer Utils 開發相關
 
 ```prompt
 in #zhTW
 in #enUS
  ```
 
-### Dev, Code, Test, Security Fix
+### 💻 Dev, Code, Test, Security Fix
 
 ```prompt
 #act-as-senior-software-engineer-expert 
@@ -61,7 +61,7 @@ in #enUS
 | 🧪 | Test sample output | code | `Provide sample output according to the code: ` | 
 | 🔒 | Fix security | code, issue | `Fix securiti issue: ` | 
 
-### Ops, Troubleshooting
+### 💻 Ops, Troubleshooting
 
 ```prompt
 #act-as-senior-devops-engineer-expert 
@@ -73,36 +73,45 @@ in #enUS
 | 📝 | Incident report | issue | `Generate effective incident report: ` | 
 
 
-## Knowldege 知識產出 相關
+## 💡 Knowldege 知識產出 相關
 
 ```prompt
 #act-as-senior-expert 
 ```
 
-### Reading
+### 📚 Reading
 
 | Icon | Title | Input | Prompt | 
 | :--: | :---: | :---: | ------ | 
-| 🇹🇼 | Translate | article | `Translate in bullet point to #zhTW, preserve original quote: ` | 
+| 🇹🇼 | Translate | article | `Translate to #zh-tw, preserve original tone and format: ` | 
 | 📝 | Summarize 摘要 | article | `Summarize in bullet point in #zhTW and #enUS: ` | 
 | 📝 | Condense 精簡 | article | `Refine and condense: ` | 
 | 📝 | Rephrase 改寫 | article | `Rephrase fluently while keep the original style: ` | 
 | 📝 | Elaborate 闡述 | article | `ellaborate with examples: ` | 
-| ✍️ | Propose | article | `Propose concise heading in bullet point: ` | 
+
+### ✍️ Writing
+
+| Icon | Title | Input | Prompt | 
+| :--: | :---: | :---: | ------ | 
+| 🇹🇼 | Translate Blog | article | `Translate in bullet point to #zhTW, preserve original quote: ` | 
+| 🇹🇼 | Propose i18n title | article heading | `Propose 5 translation to English & Japanese, and keep the original tone and make it intriguing blog post title:: ` | 
+| ✍️ | Propose structure | article heading | `Propose concise heading in bullet point: ` | 
 | ✍️ | Grammar | article | `Check grammar: ` | 
 
-### Presentation
+
+
+### 💬 Presentation
 
 | Icon | Title | Input | Prompt | 
 | :--: | :---: | :---: | ------ | 
 | 💬 | Speech | article | `Compose a compelling speech: ` | 
 
-### Social Media Post Generation
+### 📱 Social Media Post Generation
 
 | Icon | Title | Input | Prompt | 
 | :--: | :---: | :---: | ------ | 
-| 🎉 | Suggest SEO practices | title, article | `Suggest SEO practices: ` | 
-| 🎉 | Propose content | title, article | `Propose 3 engaging social media post within 500 words: ` | 
+| 📱 | Suggest SEO practices | title, article | `Suggest SEO practices: ` | 
+| 📱 | Propose content | title, article | `Propose 3 engaging social media post within 500 words: ` | 
 
 
 ## Others
@@ -111,7 +120,7 @@ in #enUS
 #act-as-senior-expert 
 ```
 
-### Job
+### 💼 Job
 
 | Icon | Title | Input | Prompt | 
 | :--: | :---: | :---: | ------ | 
