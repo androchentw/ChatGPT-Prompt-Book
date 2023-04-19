@@ -26,7 +26,7 @@ ChatGPT 的學習訓練機制是 RLHF (Reinforcement Learning from Human Feedbac
 
 基於現在使用英文會比中文有品質&有效率 (主要是因為原始訓練語料量的差別)，建議大家學習精簡的 “英文動詞與形容詞" 作為 prompt 基礎。也有助於我們邏輯思考
 
-需要時再轉中文也可以。英文部分可以參考 
+需要時再轉中文也可以。英文部分可以參考
 
 1. [GrammarlyGo](https://www.grammarly.com/grammarlygo)
 2. [rephrase.info](https://www.rephrase.info/)
@@ -52,14 +52,14 @@ in #enUS
 #act-as-senior-software-engineer-expert 
 ```
 
-| Icon | Title | Input | Prompt | 
-| :--: | :---: | :---: | ------ | 
-| 💬 | Explain | code | `Explain code: ` | 
-| 🛠️ | Implement feature | requirement (story, task, BDD) | `Implement: ` | 
-| 👀 | Code review | code | `Perform code review on:` | 
-| 🧹 | Debug error message | error | `Fix error: ` | 
-| 🧪 | Test sample output | code | `Provide sample output according to the code: ` | 
-| 🔒 | Fix security | code, issue | `Fix securiti issue: ` | 
+| Icon | Title | Input | Prompt |
+| :--: | :---: | :---: | ------ |
+| 💬 | Explain | code | `Explain code:` |
+| 🛠️ | Implement feature | requirement (story, task, BDD) | `Implement:` |
+| 👀 | Code review | code | `Perform code review on:` |
+| 🧹 | Debug error message | error | `Fix error:` |
+| 🧪 | Test sample output | code | `Provide sample output according to the code:` |
+| 🔒 | Fix security | code, issue | `Fix securiti issue:` |
 
 ### 💻 Ops, Troubleshooting
 
@@ -67,11 +67,10 @@ in #enUS
 #act-as-senior-devops-engineer-expert 
 ```
 
-| Icon | Title | Input | Prompt | 
-| :--: | :---: | :---: | ------ | 
-| 🔬 | RCA | issue | `Perform root cause analysis: ` | 
-| 📝 | Incident report | issue | `Generate effective incident report: ` | 
-
+| Icon | Title | Input | Prompt |
+| :--: | :---: | :---: | ------ |
+| 🔬 | RCA | issue | `Perform root cause analysis:` |
+| 📝 | Incident report | issue | `Generate effective incident report:` |
 
 ## 💡 Knowldege 知識產出 相關
 
@@ -79,40 +78,44 @@ in #enUS
 #act-as-senior-expert 
 ```
 
-### 📚 Reading
+### 💡 Branstorming 腦力激盪
 
-| Icon | Title | Input | Prompt | 
-| :--: | :---: | :---: | ------ | 
-| 🇹🇼 | Translate | article | `Translate to #zh-tw, preserve original tone and format: ` | 
-| 📝 | Summarize 摘要 | article | `Summarize in bullet point in #zhTW and #enUS: ` | 
-| 📝 | Condense 精簡 | article | `Refine and condense: ` | 
-| 📝 | Rephrase 改寫 | article | `Rephrase fluently while keep the original style: ` | 
-| 📝 | Elaborate 闡述 | article | `ellaborate with examples: ` | 
+| Icon | Title | Input | Prompt |
+| :--: | :---: | :---: | ------ |
+| 💡 | Reverse prompt 反向產生 prompt | request | `Pretend I'm ChatGPT and you are human, what would you prompt to ask:` |
+| 💡 | ORID Guide 焦點引導 | topic | `Use ORID to guide me ont:` |
 
-### ✍️ Writing
+### 📚 Reading 閱讀
 
-| Icon | Title | Input | Prompt | 
-| :--: | :---: | :---: | ------ | 
-| 🇹🇼 | Translate Blog | article | `Translate in bullet point to #zhTW, preserve original quote: ` | 
-| 🇹🇼 | Propose i18n title | article heading | `Propose 5 translation to English & Japanese, and keep the original tone and make it intriguing blog post title:: ` | 
-| ✍️ | Propose structure | article heading | `Propose concise heading in bullet point: ` | 
-| ✍️ | Grammar | article | `Check grammar: ` | 
+| Icon | Title | Input | Prompt |
+| :--: | :---: | :---: | ------ |
+| 🇹🇼 | Translate | article | `Translate to #zh-tw, preserve original tone and format:` |
+| 📝 | Summarize 摘要 | article | `Summarize in bullet point in #zhTW and #enUS:` |
+| 📝 | Condense 精簡 | article | `Refine and condense:` |
+| 📝 | Rephrase 改寫 | article | `Rephrase fluently while keep the original style:` |
+| 📝 | Elaborate 闡述 | article | `ellaborate with examples:` |
 
+### ✍️ Writing 書寫
 
+| Icon | Title | Input | Prompt |
+| :--: | :---: | :---: | ------ |
+| 🇹🇼 | Translate Blog | article | `Translate in bullet point to #zhTW, preserve original quote:` |
+| 🇹🇼 | Propose i18n title | article heading | `Propose 5 translation to English & Japanese, and keep the original tone and make it intriguing blog post title::` |
+| ✍️ | Propose structure | article heading | `Propose concise heading in bullet point:` |
+| ✍️ | Grammar | article | `Check grammar:` |
 
-### 💬 Presentation
+### 💬 Presentation 簡報
 
-| Icon | Title | Input | Prompt | 
-| :--: | :---: | :---: | ------ | 
-| 💬 | Speech | article | `Compose a compelling speech: ` | 
+| Icon | Title | Input | Prompt |
+| :--: | :---: | :---: | ------ |
+| 💬 | Speech | article | `Compose a compelling speech:` |
 
 ### 📱 Social Media Post Generation
 
-| Icon | Title | Input | Prompt | 
-| :--: | :---: | :---: | ------ | 
-| 📱 | Suggest SEO practices | title, article | `Suggest SEO practices: ` | 
-| 📱 | Propose content | title, article | `Propose 3 engaging social media post within 500 words: ` | 
-
+| Icon | Title | Input | Prompt |
+| :--: | :---: | :---: | ------ |
+| 📱 | Suggest SEO practices | title, article | `Suggest SEO practices:` |
+| 📱 | Propose content | title, article | `Propose 3 engaging social media post within 500 words:` |
 
 ## Others
 
@@ -120,12 +123,12 @@ in #enUS
 #act-as-senior-expert 
 ```
 
-### 💼 Job
+### 💼 Job 工作
 
-| Icon | Title | Input | Prompt | 
-| :--: | :---: | :---: | ------ | 
-| 💼 | Resume | role, achievement | `Create a professional resume: ` | 
-| 💼 | Job description | role | `Compose a profession job description: ` | 
+| Icon | Title | Input | Prompt |
+| :--: | :---: | :---: | ------ |
+| 💼 | Resume | role, achievement | `Create a professional resume:` |
+| 💼 | Job description | role | `Compose a profession job description:` |
 
 ## AIGC Copilot App/Plugin
 
@@ -133,8 +136,8 @@ in #enUS
 
 ### General
 
-| Name | Category | Function | Feature | 
-| :--: | :------: | -------- | :-----: | 
+| Name | Category | Function | Feature |
+| :--: | :------: | -------- | :-----: |
 | [ChatGPT](https://chat.openai.com) | Web | ChatGPT | 完整對話記錄 |
 | [UseChatGPT.AI], [ChatGPT Sidebar], [Merlin] | Chrome Plugin | 網頁中的 ChatGPT | 選取運用; Prompt template  |
 | [Glarity] | Chrome Plugin | 網頁及 YouTube 摘要 (ChatGPT) | 一鍵方便 |
@@ -145,7 +148,6 @@ in #enUS
 | [Auto-GPT], [AgentGPT], [BabyAGI] | GitHub Repo | 自動任務串接 | 用來產生 Story 的 subtask |
 | [stable-diffusion-webui-colab] | GitHub Repo | Stable Diffusion Google Colab | 免費產圖. cetus, pastel, rpg, lyriel, anime-lineart |
 | [Moonshot](https://www.kocpc.com.tw/archives/483998) | LINE Chatbot | 寫實/概念/漫畫 | 免費產圖 |
- 
 
 <!-- Link -->
 [Glarity]: https://chrome.google.com/webstore/detail/glarity-summary-for-googl/cmnlolelipjlhfkhpohphpedmkfbobjc
