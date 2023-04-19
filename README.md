@@ -82,7 +82,7 @@ in #enUS
 
 | Icon | Title | Input | Prompt |
 | :--: | :---: | :---: | ------ |
-| 💡 | Reverse prompt 反向產生 prompt | request | `Pretend I'm ChatGPT and you are human, what would you prompt to ask:` |
+| 💡 | Reverse prompt 反向產生 prompt | request | `What do I need to prompt ChatGPT for asking:` |
 | 💡 | ORID Guide 焦點引導 | topic | `Use ORID to guide me ont:` |
 
 ### 📚 Reading 閱讀
